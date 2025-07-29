@@ -2,7 +2,12 @@ contextily
 folium>=0.12
 osmnx
 networkx
+pandas
 geopandas
 mapclassify
 ee
 geemap
+numpy 
+matplotlib 
+shapely 
+EE
