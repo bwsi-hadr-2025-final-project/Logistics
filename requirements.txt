@@ -1,0 +1,8 @@
+contextily
+folium>=0.12
+osmnx
+networkx
+geopandas
+mapclassify
+ee
+geemap
